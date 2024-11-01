@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317193509791",
+    "project_id": "soli-a58be",
+    "storage_bucket": "soli-a58be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317193509791:android:f954d680364421869f3baa",
+        "android_client_info": {
+          "package_name": "com.example.soil_sampling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16LeBU0kPbA5zcPz_8URlioZ72ilVteU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
